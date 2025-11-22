@@ -1,0 +1,15 @@
+streamlit
+numpy
+opencv-python-headless
+Pillow
+matplotlib
+pandas
+scikit-learn
+scikit-image
+datetime
+seaborn
+torch
+torchvision
+python-dateutil
+streamlit-echarts
+plotly
